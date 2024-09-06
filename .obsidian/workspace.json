@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "a703189b7f4dc7da",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b9e0e33c5d407f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f1d33421b12a85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5d79b02d925e24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "91be3e20e9027741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f94e417bf7cd906",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e62026d23a4e2c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f4d78f198a86eff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bdb1bed7ce38687",
+    "type": "split",
+    "children": [
+      {
+        "id": "79508d67e7da088a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40356769731b7cf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29382d4c4a7cdfa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5b652266a510446",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bad14f41722a1032",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "56f1d33421b12a85",
+  "lastOpenFiles": [
+    "Hack Havoc CTF - CyberMaterial/Web/Shell Shocker.md",
+    "Hack Havoc CTF - CyberMaterial/Web/Drunken Website.md",
+    "Hack Havoc CTF - CyberMaterial/Web/shell_1.png.~tmp",
+    "Hack Havoc CTF - CyberMaterial/Web/shell_1.png",
+    "Hack Havoc CTF - CyberMaterial/Web/We are rolling.md",
+    "Hack Havoc CTF - CyberMaterial/Web/A Shakespearian Tragedy.md",
+    "Hack Havoc CTF - Cyber Material/Web/A Shakespearian Tragedy.md",
+    "Hack Havoc CTF - CyberMaterial/Web",
+    "Hack Havoc CTF - CyberMaterial",
+    "Hack Havoc CTF - Cyber Material/Web/Drunken Website.md",
+    "Hack Havoc CTF - Cyber Material/Web/Shell Shocker.md",
+    "Hack Havoc CTF - Cyber Material/Web/We are rolling.md",
+    "Hack Havoc CTF - Cyber Material/Web",
+    "ShunyaCTF/OSINT/Uncover the tea/Solution.md",
+    "ShunyaCTF/OSINT/BIBBA Part 3/Solution.md",
+    "ShunyaCTF/OSINT/BIBBA Part 3/map.jpeg",
+    "ShunyaCTF/OSINT/Uncover the tea/ticket.png",
+    "ShunyaCTF/OSINT/Uncover the tea",
+    "ShunyaCTF/OSINT/BIBBA Part 3/google_map.png.png",
+    "ShunyaCTF/Simplistic Image format/Solution.md",
+    "ShunyaCTF/OSINT/BIBBA Part 3/map.jpeg.crdownload",
+    "ShunyaCTF/OSINT/BIBBA Part 3/fixed_image.png",
+    "ShunyaCTF/OSINT/BIBBA Part 3/pippa (4).png",
+    "ShunyaCTF/OSINT/BIBBA Part 3/Release/pippa.png",
+    "ShunyaCTF/OSINT/BIBBA Part 3/Release",
+    "ShunyaCTF/OSINT/BIBBA Part 3/New folder",
+    "ShunyaCTF/OSINT/New folder",
+    "ShunyaCTF/OSINT/BIBBA Part 3",
+    "ShunyaCTF/Simplistic Image format/test.png"
+  ]
+}
